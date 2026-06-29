@@ -26,6 +26,23 @@ A PyQt6-based media browser and player for local movie and TV show collections.
 2. Download `LMWT.exe` from [Releases](https://github.com/YOUR_USERNAME/LMWT/releases)
 3. Double-click to run
 
+## Expected Folder Structure
+Movies/
+  ├── Action/
+  │   └── The Matrix.mp4
+  └── Comedy/
+      └── Superbad.mp4
+
+TV Shows/
+  ├── Drama/
+  │   └── Breaking Bad/
+  │       ├── poster.jpg
+  │       ├── Season 1/
+  │       │   └── Episode 1.mp4
+  │       └── Season 2/
+  └── Comedy/
+      └── The Office/
+
 ## Run from Source
 
 ```bash
